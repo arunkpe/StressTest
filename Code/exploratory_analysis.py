@@ -198,4 +198,3 @@ for row in range(0, 7):
 corrMatrix = bondSpreadLag.corr()
 corrMatrix['deltaSpread']
 correl_vars = ['deltaSpread','Slope','deltaTreas', bondTranche+'_lag1',bondTranche+'_lag2','deltaVIX','deltaBBB','deltadjia','deltaLibor3M','tedSpread','fedSpread','deltaCREIdx']
-
