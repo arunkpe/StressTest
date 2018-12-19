@@ -13,3 +13,5 @@ def getMacroVar(macroString,macroVarName,geoLocation,macroData):
 
     return macroDataSubset
     
+
+    
