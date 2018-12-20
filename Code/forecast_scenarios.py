@@ -101,3 +101,4 @@ predSpreadFcst.plot(x='Date', y = 'SevAdv',color ='magenta',ax=ax,legend = True)
 
 plt.axvspan(fcstDate, '2020-12-31', color='white', alpha=0.2)
 plt.text('2017-12-31', 500, 'Forecast', fontsize=12)
+
